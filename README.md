@@ -30,3 +30,15 @@
  <img src="http://makerinchina.cn/wp-content/uploads/2021/08/image-20210811233134669.png" width="200" height="200" />
 
 - note: [树莓派gui控制蜂鸣器-pyside](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui%e6%8e%a7%e5%88%b6%e8%9c%82%e9%b8%a3%e5%99%a8-pyside/)
+
+- 
+
+
+## :v:  4. temp monitor gui :
+
+- screenshot:
+
+  <img src="http://makerinchina.cn/wp-content/uploads/2021/08/2021-08-28_230124.png" width="200" height="200" />
+
+- note: [树莓派GUI显示温度监控-PySide/PyQT/QML](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui%e6%98%be%e7%a4%ba%e6%b8%a9%e5%ba%a6%e7%9b%91%e6%8e%a7-pyside-pyqt-qml/)
+
