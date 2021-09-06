@@ -1,10 +1,10 @@
->  create gui application at raspberry pi use pyside and qml
+>  Create Python GUI application at Raspberry Pi use Pyside/PyQt and QML
 
 ---
 
 
 
-##  :v:  1. Led control gui :
+##  :v:  1. Led control GUI:
 
 - screenshot:  
 
@@ -14,7 +14,7 @@
 
 
 
-## :v:  2. Led PWM control gui :
+## :v:  2. LED PWM control GUI:
 
 - screenshot:
 
@@ -23,7 +23,7 @@
 - note: [树莓派gui-pwm控制led-pyside](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui-pwm%e6%8e%a7%e5%88%b6led-pyside/)
 
 
-## :v:  3. buzzer control gui :
+## :v:  3. Buzzer control GUI:
 
 - screenshot:
 
@@ -31,14 +31,20 @@
 
 - note: [树莓派gui控制蜂鸣器-pyside](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui%e6%8e%a7%e5%88%b6%e8%9c%82%e9%b8%a3%e5%99%a8-pyside/)
 
-- 
 
+## :v:  4. Temp monitor GUI:
 
-## :v:  4. temp monitor gui :
+- screenshot: 
 
-- screenshot:
-
-  <img src="http://makerinchina.cn/wp-content/uploads/2021/08/2021-08-28_230124.png" width="200" height="200" />
+ <img src="http://makerinchina.cn/wp-content/uploads/2021/08/2021-08-28_230124.png" width="200" height="200" />
 
 - note: [树莓派GUI显示温度监控-PySide/PyQT/QML](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui%e6%98%be%e7%a4%ba%e6%b8%a9%e5%ba%a6%e7%9b%91%e6%8e%a7-pyside-pyqt-qml/)
+
+## :v:  5. ADC measure GUI:
+
+- screenshot: 
+
+ <img src="http://makerinchina.cn/wp-content/uploads/2021/09/image-20210905204223070.png" width="200" height="200" />
+
+- note: [树莓派GUI-ADC测量-PySide/PyQT/QML/Python/Qt](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui-adc%e6%b5%8b%e9%87%8f-pyside-pyqt-qml-python-qt/)
 
