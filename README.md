@@ -48,3 +48,13 @@
 
 - note: [树莓派GUI-ADC测量-PySide/PyQT/QML/Python/Qt](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui-adc%e6%b5%8b%e9%87%8f-pyside-pyqt-qml-python-qt/)
 
+
+
+## :v: 5. Serial Testing GUI:
+
+- screenshot: 
+
+ <img src="http://makerinchina.cn/wp-content/uploads/2021/09/image-20210912175719496.png" width="200" height="200" />
+
+- note: [树莓派gui-串口使用-pyside-pyqt-qml-python-qt](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui-%e4%b8%b2%e5%8f%a3%e4%bd%bf%e7%94%a8-pyside-pyqt-qml-python-qt/)
+
