@@ -58,3 +58,13 @@
 
 - note: [树莓派gui-串口使用-pyside-pyqt-qml-python-qt](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui-%e4%b8%b2%e5%8f%a3%e4%bd%bf%e7%94%a8-pyside-pyqt-qml-python-qt/)
 
+
+
+## :v: 6. Camera Viewer GUI:
+
+- screenshot: 
+
+ <img src="http://makerinchina.cn/wp-content/uploads/2021/09/image-20210921172746276.png" width="200" height="200" />
+
+- note: [树莓派gui-摄像头使用-pyside-pyqt-qml-python-qt](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui-%e6%91%84%e5%83%8f%e5%a4%b4%e4%bd%bf%e7%94%a8-pyside-pyqt-qml-python-qt/)
+
