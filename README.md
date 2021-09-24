@@ -68,3 +68,4 @@
 
 - note: [树莓派gui-摄像头使用-pyside-pyqt-qml-python-qt](https://makerinchina.cn/%e6%a0%91%e8%8e%93%e6%b4%begui-%e6%91%84%e5%83%8f%e5%a4%b4%e4%bd%bf%e7%94%a8-pyside-pyqt-qml-python-qt/)
 
+ 
