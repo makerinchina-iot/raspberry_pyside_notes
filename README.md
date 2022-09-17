@@ -2,6 +2,7 @@
 
 ---
 
+note and details: https://makerinchina.cn/categories/raspberrypi/
 
 
 ##  :v:  1. Led control GUI:
